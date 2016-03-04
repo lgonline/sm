@@ -1,0 +1,25 @@
+
+数据库为gb2312 请大家建立数据库时注意
+
+登陆报错的问题 登录 java.lang.NoSuchMethodError: antlr.collections.AST.getLine()I 问题
+
+http://www.52itstyle.com/thread-222-1-1.html
+
+导入数据库乱码解决方案：
+http://www.52itstyle.com/thread-133-1-1.html
+
+java项目所有的jar包都导入了但是还报错
+http://www.52itstyle.com/thread-233-1-1.html
+
+人才管理系统项目详细文档说明
+http://www.52itstyle.com/thread-224-1-1.html
+=========================================
+系统安装说明以及注意事项
+
+http://www.52itstyle.com/thread-151-1-1.html
+(出处: 科帮网-享受科技、热爱生活)
+
+
+Java Web项目开发案例报价管理系统(亲测)
+http://www.52itstyle.com/thread-150-1-1.html
+(出处: 科帮网-享受科技、热爱生活)
